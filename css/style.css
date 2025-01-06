@@ -200,13 +200,13 @@ img { max-width: 100%; }
   bottom: 0;
   width: 100%;
   height: 50px;
-  opacity: 0.9;
+  opacity: 0.8;
   z-index: 1;
   top: 0;
   left: 0;
   border-bottom: 1px solid #f1f1f1;
   display: block;
-  padding: 0px 15px 0px 15px;
+  padding: 0px 15px 5px 15px;
   background: #ffffff;
   -webkit-transition: all 0.3s;
   -moz-transition: all 0.3s;
@@ -215,7 +215,7 @@ img { max-width: 100%; }
   transition: all 0.3s;
 }
 .logo-nav {
-  padding: 2px;
+  padding: 6px 0 10px 0;
   -webkit-transition: all 0.3s;
   -moz-transition: all 0.3s;
   -ms-transition: all 0.3s;
@@ -1226,7 +1226,7 @@ ul.portfolio-image li .desc{
   width: 0px;
   position: relative;
 }
-.skillst .count-bar {background-color: #4282e2;}
+.skillst .count-bar {background-color: #3670c7;}
 .skillst .count-bar span{ font-size: 12px;}
 .skillst .title {
   position: absolute;
